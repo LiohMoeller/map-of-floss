@@ -1,5 +1,8 @@
-A Map of Free/Libre/Open-Source Software in Europe
-==========================
+![A Map of Free/Libre/Open-Source Software in Europe](img/snapshot_-_20130620.png)
+
+# A Map of Free/Libre/Open-Source Software in Europe
+
+## About
 
 The objective of this project is to create a geographic map that depicts the biggest european FLOSS projects.
 
